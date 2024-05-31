@@ -11,4 +11,4 @@ Credit: tienanh109
 - There are snakes and apple
 
 ## Preview:
-[Click here to see the preview]()
+[Click here to see the preview](https://tienanh109.github.io/sc/snake-touch)
